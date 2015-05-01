@@ -4,6 +4,8 @@ Una serie de animaciones que he ido haciendo con **SVG** y **SMIL**
 
 
 [Animando mi logo](http://jorgeatgu.github.io/smil/animacion-logo/)
+![Image of Yaktocat](https://github.com/jorgeatgu/SMIL/blob/master/images/animacion-jorgeatgu-dos.png)
+
 
 
 [Animando mi logo segunda parte](http://jorgeatgu.github.io/smil/animacion-logo-dos/)
